@@ -1,1 +1,0 @@
-Получить ключ API: https://apilayer.com/marketplace/exchangerates_data-api
